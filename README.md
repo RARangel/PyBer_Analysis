@@ -18,7 +18,7 @@ city_data.csv
 ride_data.csv
 [file](Resources/ride_data.csv).
 
-Software: Python version 3.7, Jupyter Notbeook
+Software: Python version 3.7, Jupyter Notebook, Pandas, Matplotlib
 
 Code: [file](PyBer_Challenge.ipynb).
 
