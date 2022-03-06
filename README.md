@@ -1,6 +1,7 @@
 # Module 5: PyBer_Analysis
 ## Overview of Project
 The objective is to provide a summary DataFrame of the PyBer ride-sharing data by city type.
+This report summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ### Deliverables
 Deliverable 1: A ride-sharing summary DataFrame by city type: [file](analysis/Stats_per_City_Type_Chart.PNG).
@@ -25,3 +26,6 @@ Code: [file](PyBer_Challenge.ipynb).
 ## Results
 ### Analysis
 
+There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. 
+
+There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types
