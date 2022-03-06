@@ -4,9 +4,9 @@ The objective is to provide a summary DataFrame of the PyBer ride-sharing data b
 This report summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ### Deliverables
-Deliverable 1: A ride-sharing summary DataFrame by city type: [file](analysis/Stats_per_City_Type_Chart.PNG).
+Deliverable 1: A ride-sharing summary DataFrame by city type: Chart: [file](analysis/Stats_per_City_Type_Chart.PNG).
 
-Deliverable 2: A multiple-line chart of total fares for each city type
+Deliverable 2: A multiple-line chart of total fares for each city type. Plot: [file](PyBer_fare_summary.png).
 
 Deliverable 3: A written report for the PyBer analysis (README.md)
 
@@ -25,7 +25,7 @@ Code: [file](PyBer_Challenge.ipynb).
 
 ## Results
 ### Analysis
+Urban cities collected the highest total fares ($39,854.38), but rural cities had the highest average fare per ride ($34.62) and highest fares per driver ($55.49). 
+Overall, the urban type cities collected the most fares during the sample time period. Rides/fares peaked in lae February for all three types. 
 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. 
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types
