@@ -6,7 +6,7 @@ This report summarizes how the data differs by city type and how those differenc
 ### Deliverables
 Deliverable 1: A ride-sharing summary DataFrame by city type: Chart: [file](analysis/Stats_per_City_Type_Chart.PNG).
 
-Deliverable 2: A multiple-line chart of total fares for each city type. Plot: [file](PyBer_fare_summary.png).
+Deliverable 2: A multiple-line chart of total fares for each city type. Plot: [file](analysis/PyBer_fare_summary.png).
 
 Deliverable 3: A written report for the PyBer analysis (README.md)
 
